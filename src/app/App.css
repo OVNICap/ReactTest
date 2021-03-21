@@ -1,0 +1,14 @@
+textarea {
+  width: calc(100% - 2em);
+  height: 100px;
+  display: block;
+  margin: 1em;
+}
+
+.failure {
+  background: #ffacac;
+}
+
+.success {
+  background: #acffac;
+}
